@@ -17,7 +17,7 @@ Introduction
 =========================================
 The first commit is coming soon!
 
-Please register for free at [Sequencing.com](https://sequencing.com/) to receive the full benefits of our APIs and developer tools. You will be able to access the Altruist database using your own API secret that can be generated via your account at Sequencing.com
+Please register for free at [Sequencing.com](https://sequencing.com/) to receive the full benefits of our [APIs] (https://sequencing.com/api-references-0) and developer tools. You will be able to access the Altruist database using your own API secret that can be generated via your account at Sequencing.com
 
 Project
 ========================================
