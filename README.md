@@ -1,8 +1,8 @@
 Altruist Endeavor
 =========================================
-The [Altruist Endeavor] (https://sequencing.com/altruist-endeavor) is a rapidly growing dataset of anonymous genetic data that is available to the public. The database is maintained in a customized Hadoop cluster implemented specifically for the Altruist Endeavor by [Sequencing.com] (https://sequencing.com). 
+The [Altruist Endeavor] (https://sequencing.com/altruist-endeavor) is a rapidly growing dataset of anonymous genetic data that is available to the public. The database is maintained in a fully customized Cassandra NoSQL cluster implemented by Sequencing.com to power the Altruist Endeavor by [Sequencing.com] (https://sequencing.com). 
 
-This open source repository provides access points to the Altruist database, as well as querying and user interface functionality. Developers can receive free API access by registering at [Sequencing.com] (https://sequencing.com).
+This open source repository provides access points to the Altruist database, as well as querying and user interface functionality. Developers receive free access by [registering for an account at Sequencing.com](https://sequencing.com/user/register).
 
 * Introduction
 * Project
@@ -16,8 +16,6 @@ This open source repository provides access points to the Altruist database, as 
 Introduction
 =========================================
 The first commit is coming soon!
-
-Please register for free at [Sequencing.com](https://sequencing.com/) to receive the full benefits of our [APIs] (https://sequencing.com/api-references-0) and developer tools. You will be able to access the Altruist database using your own API secret that can be generated via your account at Sequencing.com
 
 Project
 ========================================
